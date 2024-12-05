@@ -4,8 +4,11 @@ Welcome to LivewireKit, a collection of ready-to-use components for Laravel Live
 ## 🎉 Features
 
 Reusable Components: Modular and flexible, built for seamless integration.
+
 Real-Time Functionality: Enhance user experience with Livewire's dynamic interactivity.
+
 Developer-Friendly: Pre-configured, well-documented, and ready to use out of the box.
+
 Community-Driven: Contributions are welcome to expand and improve the library.  
 
 ## 🚀 Installation
